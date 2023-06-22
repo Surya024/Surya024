@@ -1,0 +1,4 @@
+interface Sample
+{
+	void test();
+}
